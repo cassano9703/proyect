@@ -1,0 +1,12 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+#Hero-Section {
+
+  background-image: url("../imgs/perfiles.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+   
+ 
+}
